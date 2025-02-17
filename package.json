@@ -1,10 +1,10 @@
 {
   "name": "extensionpack-python",
-  "displayName": "My Collection of Python Extensions",
+  "displayName": "My Python Collection Pack",
   "description": "Extension Pack for Python Profile",
   "icon": "resources/python_icon.png",
   "version": "0.0.1",
-  "repository": "",
+  "repository": "https://github.com/lpvic/ExtensionPack_Python",
   "publisher": "lpvic",
   "engines": {
     "vscode": "^1.97.0"
